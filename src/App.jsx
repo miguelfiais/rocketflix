@@ -13,7 +13,6 @@ function App() {
 
   const getMovie = async() => {
     const data = await fetch(`${moviesURL}${parseInt(Math.random() * 996)}?${apiKey}&language=pt-BR`).then(response => response.json())
-    console.log(data)
     setMovie(data)
   }
 
