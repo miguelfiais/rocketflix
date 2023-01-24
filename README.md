@@ -10,6 +10,8 @@
 
 ## Visão Geral
 
+[Aplicação](https://mfrocketflix.netlify.app/)
+
 ![Animação](https://user-images.githubusercontent.com/108070001/213896298-5fc96acc-191b-42ac-b6bb-3845009897bf.gif)
 
 Eu desenvolvi um projeto com React para resolver um desafio da Rocketseat. Utilizei a API do TMDB para exibir filmes aleatórios ao clicar em "Encontrar Filme". Estudei a documentação da API antes de começar o projeto. Criei uma interface simples com React e implementei a lógica para requisição e tratamento da resposta da API. Enfrentei desafios, mas consegui completar o projeto com sucesso.
